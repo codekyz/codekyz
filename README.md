@@ -10,7 +10,7 @@
 </a>
 <a href="https://velog.io/@kyz0111">
     <img 
-        src="http://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=velog&link=https://velog.io/@kyz0111"/>
+        src="http://img.shields.io/badge/-Velog-000000?style=flat-square&logo=velog&link=https://velog.io/@kyz0111"/>
 </a>
 
 
