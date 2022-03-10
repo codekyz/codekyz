@@ -1,5 +1,7 @@
 ### 👋 Hi, My name is Yoonjung.
 
+[Notion Resume](https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5)
+
 <a href="https://www.youtube.com/channel/UCh8rS2JK3LyPqt_08kc2kZg">
     <img 
         src="http://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCh8rS2JK3LyPqt_08kc2kZg"/>
