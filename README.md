@@ -6,7 +6,7 @@
 
 <a href="https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5">
     <img 
-        src="http://img.shields.io/badge/-NotionResume-#000000?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
+        src="http://img.shields.io/badge/-NotionResume-000000?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
 </a>
 
 <a href="https://instagram.com/rzloz_k">
