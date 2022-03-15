@@ -4,7 +4,11 @@
 [Projects](https://codekyz.github.io/new-portfolio/)  
 [TIL](https://codekyz0111.gitbook.io/today-i-learned/)
 
-<img src="http://img.shields.io/badge/-codekyz0111@gmail.com-FFFFFF?style=flat-square&logo=Gmail/>
+<a href="https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5">
+    <img 
+        src="http://img.shields.io/badge/-NotionResume-FFFFFF?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
+</a>
+
 <a href="https://instagram.com/rzloz_k">
     <img 
         src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://instagram.com/rzloz_k"/>
