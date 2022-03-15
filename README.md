@@ -2,11 +2,8 @@
 
 [Notion Resume](https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5)  
 [Projects](https://codekyz.github.io/new-portfolio/)
+[TIL](https://codekyz0111.gitbook.io/today-i-learned/)
 
-<a href="https://www.youtube.com/channel/UCh8rS2JK3LyPqt_08kc2kZg">
-    <img 
-        src="http://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCh8rS2JK3LyPqt_08kc2kZg"/>
-</a>
 <a href="https://instagram.com/rzloz_k">
     <img 
         src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://instagram.com/rzloz_k"/>
