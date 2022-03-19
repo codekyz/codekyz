@@ -3,16 +3,20 @@
 
 <a href="https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5">
     <img 
-        src="http://img.shields.io/badge/-NotionResume-000000?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
+        src="http://img.shields.io/badge/-NotionResume-888888?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
 </a>
 
 <a href="https://instagram.com/rzloz_k">
     <img 
         src="http://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=Instagram&link=https://instagram.com/rzloz_k"/>
 </a>
+<a href="https://codekyz0111.gitbook.io/today-i-learned">
+    <img 
+        src="http://img.shields.io/badge/-TIL-FFFFFF?style=flat-square&logo=GitBook&link=https://codekyz0111.gitbook.io/today-i-learned"/>
+</a>
 <a href="https://velog.io/@kyz0111">
     <img 
-        src="http://img.shields.io/badge/-Velog-000000?style=flat-square&logo=velog&link=https://velog.io/@kyz0111"/>
+        src="http://img.shields.io/badge/-Velog-FFFFFF?style=flat-square&logo=velog&link=https://velog.io/@kyz0111"/>
 </a>
 
 
