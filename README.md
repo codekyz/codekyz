@@ -12,6 +12,11 @@
 https://codekyz.tistory.com
 </a>
 <br/>
+✨LINKEDIN <a href="https://www.linkedin.com/in/codekyz/">
+https://www.linkedin.com/in/codekyz
+</a>
+<br/>
+ 
 
 <a href="https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5">
     <img src="http://img.shields.io/badge/-PORTFOLIO-888888?style=flat-square&logo=Notion&link=https://cyan-pudding-2bf.notion.site/Code-kyz-172958a68b49436db99bfccce0aaadf5"/>
